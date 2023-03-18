@@ -1,0 +1,10 @@
+openai_api_key: ""
+openai_api_org: ""
+openai_api_endpoint: ""
+openai_api_request_form:
+  model: text-davinci-003
+  temperature: 0.3
+  max_tokens: 100
+  top_p: 1.00
+  frequency_penalty: 0.0
+  presence_penalty: 0.0
